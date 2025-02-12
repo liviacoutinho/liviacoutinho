@@ -1,5 +1,7 @@
 # 👋 Oii! Meu nome é Lívia Coutinho. Seja bem vindo(a)! :blush:
 
+Perfil em construção. Logo, logo estará completo! ⚒️ 
+
 ## Sobre mim
 Atualmente, sou uma desenvolvedora web no Hospital Prontocardio, trabalhando com soluções para problemas relacionados a software em ambiente hospitalar. Estive envolvida em uma dezena de projetos voltados para a área da saúde, incluindo softwares web e integração com IoT.
 
