@@ -14,6 +14,3 @@ Atualmente, sou uma Desenvolvedora Web no Hospital Prontocardio, trabalhando com
 
 ## 📔 Portifólio
 - [Em Breve]
-
-
-Sinta-se à vontade para explorar meus repositórios e entrar em contato! 😃
